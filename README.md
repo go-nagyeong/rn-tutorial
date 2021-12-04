@@ -13,9 +13,8 @@
 │       ├── TodoList.js
 │       └── TodoListItem.js
 ├── Navigation
-│   ├── DrawerNavigation
 │   ├── StackNavigation
-│   └── TabNavigation
+│   └── ...
 └── ...
 ``` 
 &nbsp;  
