@@ -1,7 +1,5 @@
 # React Native Tutorial
-:link: https://jeffgukang.github.io/react-native-tutorial/  
-
-:pencil2: https://ngkim.notion.site/React-Native-037ba849d6a5484b8231f05ad17bf8fb  
+:pencil2: [공부 노트](https://ngkim.notion.site/React-Native-05fbd1acb0764dd4ac86a41e907d032b?pvs=4)  
 &nbsp;  
 
 ## Chapter
